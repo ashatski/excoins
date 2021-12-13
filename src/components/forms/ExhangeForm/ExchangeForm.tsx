@@ -86,11 +86,6 @@ const ExchangeForm = ({ rate, rateComparison, exchangePayload, setExchangePayloa
 		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [fromAmount, fromSymbol, toSymbol, rate.from])
 
-	useEffect(
-		() => console.log(`selectedFromCurrency?.balance`, selectedFromCurrency?.balance ? true : false),
-		[selectedFromCurrency?.balance]
-	)
-
 	return (
 		<XCard title={'Exchange'}>
 			<Box sx={{ display: 'flex', justifyContent: 'flex-end' }}>
