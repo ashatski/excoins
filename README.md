@@ -2,6 +2,10 @@
 
 > ExCoins is a currency exchange pet project
 
+### [Demo](https://master.d188ra3d4g809n.amplifyapp.com)
+
+[https://master.d188ra3d4g809n.amplifyapp.com](https://master.d188ra3d4g809n.amplifyapp.com)
+
 ### Init
 
 1. yarn install
