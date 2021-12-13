@@ -1,0 +1,4 @@
+export const dotenvConfig = {
+	REACT_APP_RATES_API_BASE_URL: process.env.REACT_APP_RATES_API_BASE_URL,
+	REACT_APP_RATES_API_ACCESS_KEY: process.env.REACT_APP_RATES_API_ACCESS_KEY,
+}
