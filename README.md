@@ -24,4 +24,5 @@
 
 ### API
 
-- free.currencyconverterapi.com - currency conversion
+- [free.currencyconverterapi.com](free.currencyconverterapi.com) - currency conversion
+  > If receiving "Network Error" probably API server is down. Check [here](https://www.currencyconverterapi.com/server-status)
